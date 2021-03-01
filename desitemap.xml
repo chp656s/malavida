@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/ru/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="freeprogramm/ru/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://filehorsecom.github.io/freeprogramm/de</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>https://filehorsecom.github.io/freeprogramm/de/kmplayer_ein_freier_video_player_fur_windows.html</loc><lastmod>2020-02-28T09:25Z</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
@@ -48,6 +48,6 @@
 <url><loc>https://filehorsecom.github.io/freeprogramm/de/software_f%C3%BCr_reinigungs_und_optimierungs</loc></url>
 <url><loc>https://filehorsecom.github.io/freeprogramm/de/virtuelles_laufwerk_emulatoren_disk</loc></url>
 <url><loc>https://filehorsecom.github.io/freeprogramm/de/reader_djvu_and_pdf</loc></url>
-<url><loc>https://filehorsecom.github.io/freeprogramm/de/design_3d</loc></url>
+<url><loc>https://filehorsecom.github.io/freeprogramm/defreeprogramm/design_3d</loc></url>
 <url><loc>https://filehorsecom.github.io/freeprogramm/de/konvertieren</loc></url>
 </urlset>

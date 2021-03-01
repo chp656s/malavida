@@ -14,12 +14,12 @@ Disallow: /fr/?*
 Disallow: /go/?*
 Disallow: *.html?*
 
-Disallow: /ru/includes/
-Disallow: /ru/misc/
-Disallow: /ru/modules/
-Disallow: /ru/profiles/
-Disallow: /ru/scripts/
-Disallow: /ru/themes/
+Disallow: freeprogramm/ru/includes/
+Disallow: freeprogramm/ru/misc/
+Disallow: freeprogramm/ru/modules/
+Disallow: freeprogramm/ru/profiles/
+Disallow: freeprogramm/ru/scripts/
+Disallow: freeprogramm/ru/themes/
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
@@ -34,18 +34,18 @@ Disallow: /update.php
 Disallow: /UPGRADE.txt
 Disallow: /xmlrpc.php
 
-Disallow: /ru/CHANGELOG.txt
-Disallow: /ru/cron.php
-Disallow: /ru/INSTALL.mysql.txt
-Disallow: /ru/INSTALL.pgsql.txt
-Disallow: /ru/INSTALL.sqlite.txt
-Disallow: /ru/install.php
-Disallow: /ru/INSTALL.txt
-Disallow: /ru/LICENSE.txt
-Disallow: /ru/MAINTAINERS.txt
-Disallow: /ru/update.php
-Disallow: /ru/UPGRADE.txt
-Disallow: /ru/xmlrpc.php
+Disallow: freeprogramm/ru/CHANGELOG.txt
+Disallow: freeprogramm/ru/cron.php
+Disallow: freeprogramm/ru/INSTALL.mysql.txt
+Disallow: freeprogramm/ru/INSTALL.pgsql.txt
+Disallow: freeprogramm/ru/INSTALL.sqlite.txt
+Disallow: freeprogramm/ru/install.php
+Disallow: freeprogramm/ru/INSTALL.txt
+Disallow: freeprogramm/ru/LICENSE.txt
+Disallow: freeprogramm/ru/MAINTAINERS.txt
+Disallow: freeprogramm/ru/update.php
+Disallow: freeprogramm/ru/UPGRADE.txt
+Disallow: freeprogramm/ru/xmlrpc.php
 
 
 
@@ -56,23 +56,23 @@ Disallow: /filter/tips
 Disallow: /node/add
 Disallow: /search
 Disallow: /user
-Disallow: /en/user*
-Disallow: /ru/user*
-Disallow: /de/user*
+Disallow: freeprogramm/en/user*
+Disallow: freeprogramm/ru/user*
+Disallow: freeprogramm/de/user*
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
 
-Disallow: /ru/admin/
-Disallow: /ru/comment/reply/
-Disallow: /ru/filter/tips/
-Disallow: /ru/node/add/
-Disallow: /ru/search/
-Disallow: /ru/user/register/
-Disallow: /ru/user/password/
-Disallow: /ru/user/login/
-Disallow: /ru/user/logout/
+Disallow: freeprogramm/ru/admin/
+Disallow: freeprogramm/ru/comment/reply/
+Disallow: freeprogramm/ru/filter/tips/
+Disallow: freeprogramm/ru/node/add/
+Disallow: freeprogramm/ru/search/
+Disallow: freeprogramm/ru/user/register/
+Disallow: freeprogramm/ru/user/password/
+Disallow: freeprogramm/ru/user/login/
+Disallow: freeprogramm/ru/user/logout/
 
 # Paths (no clean URLs)
 Disallow: /?q=admin
@@ -85,21 +85,21 @@ Disallow: /?q=user/register
 Disallow: /?q=user/login
 Disallow: /?q=user/logout
 
-Disallow: /ru/?q=admin/
-Disallow: /ru/?q=comment/reply/
-Disallow: /ru/?q=filter/tips/
-Disallow: /ru/?q=node/add/
-Disallow: /ru/?q=search/
-Disallow: /ru/?q=user/password/
-Disallow: /ru/?q=user/register/
-Disallow: /ru/?q=user/login/
-Disallow: /ru/?q=user/logout/
+Disallow: freeprogramm/ru/?q=admin/
+Disallow: freeprogramm/ru/?q=comment/reply/
+Disallow: freeprogramm/ru/?q=filter/tips/
+Disallow: freeprogramm/ru/?q=node/add/
+Disallow: freeprogramm/ru/?q=search/
+Disallow: freeprogramm/ru/?q=user/password/
+Disallow: freeprogramm/ru/?q=user/register/
+Disallow: freeprogramm/ru/?q=user/login/
+Disallow: freeprogramm/ru/?q=user/logout/
 
 # Free
-Disallow: /en/comment/
-Disallow: /de/comment/
-Disallow: /en/node/
-Disallow: /de/node/
+Disallow: freeprogramm/en/comment/
+Disallow: freeprogramm/de/comment/
+Disallow: freeprogramm/en/node/
+Disallow: freeprogramm/de/node/
 
 Disallow: /*page=*
 Disallow: /*flag*
@@ -113,9 +113,9 @@ Disallow: /*create-version
 Disallow: /*?amp*
 Disallow: /*?destination*
 Disallow: /*?fb_xd_fragment*
-Disallow: /en/user/password
+Disallow: freeprogramm/en/user/password
 Disallow: /*glavnaya?*
-Disallow: /ru/node/
+Disallow: freeprogramm/ru/node/
 
 User-agent: Googlebot
 # Directories
@@ -226,9 +226,9 @@ Disallow: /*&post=*
 Disallow: /*create-version
 
 Host: https://freeprogramm.com
-Sitemap: https://freeprogramm.com/rusitemap.xml
-Sitemap: https://freeprogramm.com/desitemap.xml
-Sitemap: https://freeprogramm.com/ensitemap.xml
+Sitemap: https://freeprogramm.comfreeprogramm/rusitemap.xml
+Sitemap: https://freeprogramm.comfreeprogramm/desitemap.xml
+Sitemap: https://freeprogramm.comfreeprogramm/ensitemap.xml
 
 
 User-agent: Mediapartners-Google
