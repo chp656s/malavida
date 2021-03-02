@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /*/users/
+Disallow: /*/s/
+Disallow: /*/*/s/
+Disallow: /*/sa/
+Disallow: /*/pre-search/
+Disallow: /registro-usuario-modal
+Disallow: /login-usuario-modal
+Disallow: /4096369/
+Allow: /linux/s/
+Allow: /mac/s/
+Allow: /iphone/s/
+Allow: /android/s/
+Allow: /webapps/s/
+User-agent: Mediapartners-Google
+Allow: /
+Host: https://filehorsecom.github.io/malavida/
